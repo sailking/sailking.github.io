@@ -39,6 +39,8 @@
   display: inline-block;
   font-family: 'FontAwesome';
   font-size: 1em;
+  padding-right: 40px;
+  font-style:normal;
   text-rendering: auto;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
